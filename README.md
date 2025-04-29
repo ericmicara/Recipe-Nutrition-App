@@ -23,8 +23,7 @@ Built as a final project for a coding course at Binghamton University.
 - Spoonacular Recipe API
 
 ## Project Structure
-- `/src/presentation.py` — Main executable file to launch the application.
-- `/notebooks/Presentation.ipynb` — Full project development code and logic.
+- `/src/main.py` — Main project file code to launch the application.
 - `/screenshots/` — Example screenshots of the working application.
 
 ## Installation Instructions
