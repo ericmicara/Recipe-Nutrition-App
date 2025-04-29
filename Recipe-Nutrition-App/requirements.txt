@@ -1,0 +1,11 @@
+Python 3.7+
+
+requests
+
+selenium
+
+python-dotenv
+
+Note: Tkinter is included with standard Python installations.
+
+Note: ChromeDriver installation is required for Selenium-based scraping.
